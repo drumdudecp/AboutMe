@@ -33,7 +33,7 @@ img {
     border: 5px outset white;
     margin: 5px;
     border-radius: 1%;
-    max-width: 450px;
+    max-width: 50%;
     height: auto;
     width: auto;
     float: right;
@@ -111,6 +111,7 @@ h2 {
     margin-bottom: 33%;
     padding: 5px;
     border-radius: 10px;
+    width: auto;
     
 }
 
