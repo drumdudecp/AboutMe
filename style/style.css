@@ -95,10 +95,12 @@ td {
     background-color: brown;
 }
 div.page {
+    margin: 0 auto;
     background-color: rgba(245, 245, 245, 0.759);
     border: 20px solid white;
     border-radius: 1%;
     padding: 15px;
+    max-width: 60%;
 }
 
 h2 {
